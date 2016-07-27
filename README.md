@@ -1,6 +1,6 @@
-#About Project
+#About Repo
 
-This project is mainly to record coding from the book——`Coding Interview Guide`. This project is only for learn to study, without any commercial use. 
+This repository mainly writes codes from the book——`Coding Interview Guide`. The repository is only for learn to study, without any commercial use. 
 
 This repository will be maintained for a long time. Of course, there are many mistakes and shortcomings, we can learn and progress together, thank you!
 
